@@ -1,2 +1,2 @@
-# Singly-linked-list--deletion-in-beginning-and-at-random-position
+# Singly-linked-list--deletion
 Implementation of singly linked list and deleting values at the beginning and at random position.
